@@ -11,5 +11,5 @@ int main(){
 }
 
 //Sample addition
-//Created by Aswin
+//Created by Jayadeep K M
 
